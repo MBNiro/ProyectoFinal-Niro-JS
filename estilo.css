@@ -1,0 +1,55 @@
+
+.botones {
+    color: white;
+    background-color:rgba(255, 166, 0, 0.724);
+    border-color: black;
+    margin-bottom: 3rem;
+}
+
+.botones:hover {
+    background-color: orange;
+    color: white;
+    border-color: white;
+}
+
+.negrita {
+    font-weight: bold;
+    color: rgb(1, 70, 1);
+    margin-left: 5rem;
+
+}
+
+.imgPaquetes {
+    width: 100%;
+    height: 100%;
+    margin-top: 1rem;
+    object-fit: contain;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 300px;
+    height: 300px;
+    border: solid 2px black;
+}
+
+h1 {
+font-style: italic;
+font-size: 100%; 
+background: url(img/fondo.PNG);
+color: white;
+}
+
+h2 {
+    font-style: oblique;
+    font-size: 90%; 
+}
+
+h3 {
+    font-style: oblique;
+    font-size: 90%; 
+}
+  

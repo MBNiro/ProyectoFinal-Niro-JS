@@ -1,0 +1,8 @@
+[
+    {"nombre":"Maria", "comentario":"excelente servicio, muy confiables", "Fecha":"Enero", "puntuacion": 10},
+    {"nombre":"Gabriel", "comentario":"una experiencia unica, super recomendado", "Fecha":"Febrero","puntuacion": 9},
+    {"nombre":"Juan", "comentario":"los paquetes son muy completos","Fecha":"Febrero", "puntuacion": 10},
+    {"nombre":"Florencia", "comentario":"recomiendo estos paquetes, cumplieron en todo","Fecha":"Marzo", "puntuacion": 10},
+    {"nombre":"Jose", "comentario":"increible viaje, muy satisfecho con todo","Fecha":"Abril", "puntuacion": 9},
+    {"nombre":"Joaquin", "comentario":"cumplieron con todo excelente","Fecha":"Mayo", "puntuacion": 10}
+]
